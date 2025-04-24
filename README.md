@@ -40,19 +40,23 @@ Scan ports 1–1024
 List any open ports
 
 🧠 Example Output
-.------..------..------..------..------..------..------..------.
-|P.--. ||O.--. ||R.--. ||T.--. ||P.--. ||Y.--. ||  #   ||  #   |
-'------''------''------''------''------''------''------''------'
 
-              Simple Port Scanner by PortPy
 
-[*] Starting scan on: 45.33.32.156
+  .------..------..------..------..------..------..------..------.
+  |P.--. ||O.--. ||R.--. ||T.--. ||P.--. ||Y.--. ||  #   ||  #   |
+  '------''------''------''------''------''------''------''------'
 
-[+] Port 21 is open
-[+] Port 80 is open
-[+] Port 443 is open
+                  Simple Port Scanner by PortPy
+  
+  [*] Starting scan on: 45.33.32.156
+  
+  [+] Port 21 is open
+  [+] Port 80 is open
+  [+] Port 443 is open
+  
+  [*] Scan complete.
 
-[*] Scan complete.
+
 ⚠️ Legal Disclaimer
 This tool is for educational and authorized penetration testing only.
 Do not scan any system without explicit permission. Unauthorized scanning is illegal.
