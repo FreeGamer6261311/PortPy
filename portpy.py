@@ -11,7 +11,7 @@ def print_banner():
 | '--'P|| '--'O|| '--'R|| '--'T|| '--'P|| '--'Y||      ||      |
 '------''------''------''------''------''------''------''------'
     """)
-    print("              Simple Port Scanner by PortPy\n")
+    print("              Simple Port Scanner by FreeGamer_\n")
 
 def resolve_target(target):
     try:
